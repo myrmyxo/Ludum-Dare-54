@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "fileName": "stroller.png",
+    "width": 96,
+    "height": 16,
+    "columns": 6,
+    "rows": 1,
+    "frames": [
+        {
+            "duration": 80
+        },
+        {
+            "duration": 80
+        },
+        {
+            "duration": 80
+        },
+        {
+            "duration": 80
+        },
+        {
+            "duration": 80
+        },
+        {
+            "duration": 80
+        }
+    ]
+}
